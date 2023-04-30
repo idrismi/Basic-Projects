@@ -1,1 +1,1 @@
-Simple number guessing game demonstrating my understanding of basic OOP.
+Projects that serve no purpose other than demonstrating my understanding of basic Python.
