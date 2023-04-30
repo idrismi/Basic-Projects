@@ -1,9 +1,9 @@
-from argparse import ArgumentDefaultsHelpFormatter
+# Blackjack game where several players can play and bet against the dealer.
+
 import itertools
 from random import shuffle
-from time import sleep
+from time import sleep 
 import sys
-from tracemalloc import stop
 
 
 def pause():
